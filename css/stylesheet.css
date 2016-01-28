@@ -16,7 +16,7 @@
 }
 
 .jumbotron h1 {
-  float:right;;
+  float:right;
   font-family: impact;
   font-size: 70px;
   color: #b0c92d;
@@ -33,6 +33,33 @@
 }
 
 .col-md-12 p {
+  font-size: 20px;
+  font-family: Lucida Sans Unicode;
+  color: #838b8b;
+}
+
+.col-md-4 img {
+  border: 5px solid #1e2e4d;
+  display: block;
+  margin: auto;
+}
+.col-md-4 h2 {
+  text-align: center;
+  font-family: Arial Black;
+  color: #2d5867;
+}
+
+.col-md-4 p {
+  font-size: 20px;
+  font-family: Lucida Sans Unicode;
+  color: #838b8b;
+}
+.col-md-4 p {
+  font-size: 20px;
+  font-family: Lucida Sans Unicode;
+  color: #838b8b;
+}
+.col-md-4 ul {
   font-size: 20px;
   font-family: Lucida Sans Unicode;
   color: #838b8b;
