@@ -2,14 +2,6 @@
   background-color: #2c3e50;
   margin: 20px;
 }
-.jumbotron {
-  position: relative;
-  background: black url("../img/pnw-foliage.jpg") center center;
-  width: 100%;
-  height: 100%;
-  background-size: cover;
-  overflow: hidden;
-}
 
 .border {
   border: 5px solid #1e2e4d;
@@ -22,20 +14,42 @@
   color: #b0c92d;
 }
 
+.jumbotron {
+  position: relative;
+  background: black url("../img/pnw-foliage.jpg") center center;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  overflow: hidden;
+}
+
 .col-md-12 img {
+  align-items: center;
   display: block;
   margin: auto;
+
 }
 
 .col-md-12 h3 {
+  text-align: center;
   font-family: Arial Black;
   color: #2d5867;
 }
 
 .col-md-12 p {
-  font-size: 20px;
+  font-size: 18px;
   font-family: Lucida Sans Unicode;
   color: #838b8b;
+  margin: 12px;
+}
+
+.title {
+  text-align: left;
+  font-family: impact;
+  color: #b0c92d;
+  background-color: #1e2e4d;
+  margin: 20px;
+  padding-bottom: 7px;
 }
 
 .col-md-4 img {
@@ -46,7 +60,7 @@
 .col-md-4 h2 {
   text-align: center;
   font-family: Arial Black;
-  color: #2d5867;
+  color: #b9651f;
 }
 
 .col-md-4 p {
