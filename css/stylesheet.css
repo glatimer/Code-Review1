@@ -11,6 +11,10 @@
   overflow: hidden;
 }
 
+.border {
+  border: 5px solid #1e2e4d;
+}
+
 .jumbotron h1 {
   float:right;;
   font-family: impact;
@@ -18,17 +22,17 @@
   color: #b0c92d;
 }
 
-.col-md-4 img {
+.col-md-12 img {
   display: block;
   margin: auto;
 }
 
-.col-md-8 h3 {
+.col-md-12 h3 {
   font-family: Arial Black;
   color: #2d5867;
 }
 
-.col-md-8 p {
+.col-md-12 p {
   font-size: 20px;
   font-family: Lucida Sans Unicode;
   color: #838b8b;
