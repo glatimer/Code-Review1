@@ -4,27 +4,23 @@
 }
 .jumbotron {
   position: relative;
-  background: black url("/img/pnw-foliage.jpg") center center;
+  background: black url("../img/pnw-foliage.jpg") center center;
   width: 100%;
   height: 100%;
   background-size: cover;
   overflow: hidden;
 }
-.border {
-  border: 5px solid #1e2e4d;
-}
-h1 {
+
+.jumbotron h1 {
+  float:right;;
   font-family: impact;
   font-size: 70px;
-  color: #556b2f;
+  color: #b0c92d;
 }
+
 .col-md-4 img {
   display: block;
   margin: auto;
-}
-.row {
-  text-align: right;
-  margin: 15px;
 }
 
 .col-md-8 h3 {
