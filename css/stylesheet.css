@@ -12,6 +12,7 @@
   font-family: impact;
   font-size: 70px;
   color: #b0c92d;
+  padding: 30px;
 }
 
 .jumbotron {
@@ -37,10 +38,12 @@
 }
 
 .col-md-12 p {
+  text-indent: 20px;
   font-size: 18px;
   font-family: Lucida Sans Unicode;
   color: #838b8b;
-  margin: 12px;
+  margin-right: 200px;
+  margin-left: 200px;
 }
 
 .title {
@@ -60,7 +63,7 @@
 .col-md-4 h2 {
   text-align: center;
   font-family: Arial Black;
-  color: #b9651f;
+  color: #d0a908;
 }
 
 .col-md-4 p {
