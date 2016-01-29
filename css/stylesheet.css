@@ -1,6 +1,5 @@
 .navy {
   background-color: #2c3e50;
-  margin: 20px;
 }
 
 .border {
@@ -8,7 +7,7 @@
 }
 
 .jumbotron h1 {
-  float:right;
+  float: right;
   font-family: impact;
   font-size: 70px;
   color: #b0c92d;
@@ -25,10 +24,10 @@
 }
 
 .col-md-12 img {
-  align-items: center;
+  align-items: left;
   display: block;
   margin: auto;
-
+  border: 2px solid #b0c92d;
 }
 
 .col-md-12 h3 {
@@ -38,21 +37,28 @@
 }
 
 .col-md-12 p {
-  text-indent: 20px;
-  font-size: 18px;
-  font-family: Lucida Sans Unicode;
+  text-indent: 40px;
+  font-size: 24px;
+  font-family: Courier New;
   color: #838b8b;
   margin-right: 200px;
   margin-left: 200px;
+  padding: 12px;
 }
 
-.title {
+.container-fluid h1 {
   text-align: left;
   font-family: impact;
   color: #b0c92d;
   background-color: #1e2e4d;
-  margin: 20px;
-  padding-bottom: 10px;
+  padding: 18px;
+}
+
+.xs-text {
+  font-size: 12px;
+  font-family: Lucida Sans Unicode;
+  color: #838b8b;
+  text-align: center;
 }
 
 .col-md-4 img {
