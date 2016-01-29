@@ -1,4 +1,4 @@
-# _Genevieve Latimer_
+# _Genevieve Latimer's Portfolio_
 
 #### _Genevieve Latimer: Website Developer, 01/26/2016_
 
@@ -12,6 +12,7 @@ _Welcome to the Genevieve Latimer's portfolio.  Here, you will find a collection
 
 * _Click on the photos to take you to the coinciding project webpage_
 * _Click on the e-mail address to send a direct message to Genevieve_
+* _http://glatimer.github.io/Code-Review1/_
 
 ## Support and contact details
 
