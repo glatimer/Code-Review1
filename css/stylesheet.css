@@ -54,6 +54,12 @@
   padding: 18px;
 }
 
+.xs-text {
+  font-size: 12px;
+  font-family: Lucida Sans Unicode;
+  color: #838b8b;
+}
+
 .col-md-4 img {
   border: 5px solid #1e2e4d;
   display: block;
