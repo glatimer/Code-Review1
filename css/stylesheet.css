@@ -25,10 +25,10 @@
 }
 
 .col-md-12 img {
-  align-items: center;
+  align-items: left;
   display: block;
   margin: auto;
-
+  border: 2px solid #b0c92d;
 }
 
 .col-md-12 h3 {
